@@ -57,7 +57,7 @@ I am affiliated with the School of Optics and Photonics at the Beijing Institute
 
 Haolin Qin, Tingfa Xu, **Peifu Liu**, Jingxuan Xu, Jianan Li
 
-[**Code**](https://github.com/anonymous0519/HSODBIT) <strong><span class='show_paper_citations' data='yrRXe-8AAAAJ:UeHWp8X0CEIC'></span></strong>
+[**Code**](https://github.com/anonymous0519/HSOD-BIT) <strong><span class='show_paper_citations' data='yrRXe-8AAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
 
