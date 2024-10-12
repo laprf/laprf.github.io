@@ -31,9 +31,9 @@ I am affiliated with the School of Optics and Photonics at the Beijing Institute
 
 [Dual-stage Hyperspectral Image Classification Model with Spectral Supertoken](https://arxiv.org/abs/2407.07307)
 
-**Peifu Liu**, Tingfa Xu, Jie Wang, Huan Chen, Jianan Li
+**Peifu Liu**, Tingfa Xu, Jie Wang, Huan Chen, Huiyan Bai, Jianan Li
 
-[**Code**](https://github.com/laprf/DSTC) <strong><span class='show_paper_citations' data='yrRXe-8AAAAJ:zYLM7Y9cAGgC'></span></strong>
+[**Code**](https://github.com/laprf/DSTC) 
 </div>
 </div>
 
@@ -45,7 +45,7 @@ I am affiliated with the School of Optics and Photonics at the Beijing Institute
 
 **Peifu Liu**, Tingfa Xu, Huan Chen, Shiyun Zhou, Haolin Qin, Jianan Li
 
-[**Code**](https://github.com/laprf/SMN) <strong><span class='show_paper_citations' data='yrRXe-8AAAAJ:qjMakFHDy7sC'></span></strong>
+[**Code**](https://github.com/laprf/SMN) 
 </div>
 </div>
 
@@ -57,7 +57,18 @@ I am affiliated with the School of Optics and Photonics at the Beijing Institute
 
 Haolin Qin, Tingfa Xu, **Peifu Liu**, Jingxuan Xu, Jianan Li
 
-[**Code**](https://github.com/anonymous0519/HSOD-BIT) <strong><span class='show_paper_citations' data='yrRXe-8AAAAJ:UeHWp8X0CEIC'></span></strong>
+[**Code**](https://github.com/anonymous0519/HSOD-BIT) 
+</div>
+</div>
+
+<!-- TGRS CSCN -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/CSCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Content-Driven Magnitude-Derivative Spectrum Complementary Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10613611)
+
+Huiyan Bai, Tingfa Xu, Huan Chen, **Peifu Liu**, Jianan Li
+
 </div>
 </div>
 
@@ -69,9 +80,9 @@ Haolin Qin, Tingfa Xu, **Peifu Liu**, Jingxuan Xu, Jianan Li
 
 Huan Chen, Wangcai Zhao, Tingfa Xu, Guokai Shi, Shiyun Zhou, **Peifu Liu**, Jianan Li
 
-<strong><span class='show_paper_citations' data='yrRXe-8AAAAJ:u-x6o8ySG0sC'></span></strong>
 </div>
 </div>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
