@@ -21,10 +21,24 @@ I am affiliated with the School of Optics and Photonics at the Beijing Institute
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE TIM.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024.
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by IEEE TMM.
 
 # 📝 Publications 
+<!-- TIM SPSD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/SPSD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectrum-oriented Point-supervised Saliency Detector for Hyperspectral Images](https://ieeexplore.ieee.org/abstract/document/10852603)
+
+**Peifu Liu**, Tingfa Xu, Guokai Shi, Jingxuan Xu, Huan Chen, Jianan Li
+
+[**Code**](https://github.com/laprf/SPSD)
+</div>
+</div>
+
+
 <!-- ECCV DSTC -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/DSTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,6 +75,20 @@ Haolin Qin, Tingfa Xu, **Peifu Liu**, Jingxuan Xu, Jianan Li
 </div>
 </div>
 
+<!-- ACM MM MCAT -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/MCAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-scale Change-Aware Transformer for Remote Sensing Image Change Detection](https://dl.acm.org/doi/abs/10.1145/3664647.3680965)
+
+Huan Chen, Tingfa Xu, Zhenxiang Chen, **Peifu Liu**, Huiyan Bai, Jianan Li
+
+[**Code**](https://github.com/chh11/MCAT)
+
+</div>
+</div>
+
+
 <!-- TGRS CSCN -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/CSCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,6 +119,7 @@ Huan Chen, Wangcai Zhao, Tingfa Xu, Guokai Shi, Shiyun Zhou, **Peifu Liu**, Jian
 # 📖 Educations
 - *2021.09 - 2024.06*, Master, School of Optics and Photonics, Beijing Institute of Technology, China.
 - *2017.09 - 2021.06*, Undergraduate, School of Optics and Photonics, Beijing Institute of Technology, China.
+- *2024.09 - now*, Ph.D candidate, School of Optics and Photonics, Beijing Institute of Technology, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
