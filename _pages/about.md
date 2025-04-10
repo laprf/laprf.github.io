@@ -21,11 +21,24 @@ I am affiliated with the School of Optics and Photonics at the Beijing Institute
 
 
 # 🔥 News
+- *2025.4*: &nbsp;🎉🎉 One paper accepted by IEEE TGRS.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE TIM.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024.
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by IEEE TMM.
 
 # 📝 Publications 
+<!-- TGRS HRSSD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/HRSSD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline](https://ieeexplore.ieee.org/document/10950441)
+
+**Peifu Liu**, Huiyan Bai, Tingfa Xu, Jihui Wang, Huan Chen, Jianan Li
+
+[**Code**](https://github.com/laprf/HRSSD)
+</div>
+</div>
+
 <!-- TIM SPSD -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/SPSD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,6 +87,19 @@ Haolin Qin, Tingfa Xu, **Peifu Liu**, Jingxuan Xu, Jianan Li
 [**Code**](https://github.com/anonymous0519/HSOD-BIT) 
 </div>
 </div>
+
+
+<!-- AAAI v2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HSOD-BIT2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HSOD-BIT-V2: A New Challenging Benchmark for Hyperspectral Salient Object Detection](https://arxiv.org/abs/2503.13906)
+
+Yuhao Qiu, Shuyan Bai, Tingfa Xu, **Peifu Liu**, Haolin Qin, Jianan Li
+
+</div>
+</div>
+
 
 <!-- ACM MM MCAT -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/MCAT.png' alt="sym" width="100%"></div></div>
